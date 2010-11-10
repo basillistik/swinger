@@ -38,7 +38,7 @@ You can also set up a .couchapprc file that looks something like this:
 Once that is set up you can just do:
 
     $ couchapp push
-#1
+
 
 ## Acknowledgments
 
@@ -51,6 +51,34 @@ Swinger was greatly inspired by Pat Nakajima's [Slidedown](http://github.com/nak
 * [Aristo CSS](http://github.com/maccman/aristo/tree/master) for base buttons/styles
 * [Showdown](http://attacklab.net/showdown/) for Markdown
 * [Prettify](http://code.google.com/p/google-code-prettify/) for Code higlighting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * [All Swingers Clubs & Sex Clubs](http://allswingersclubs.org/)
 * [Swingers clubs & Sex clubs in Argentina](http://allswingersclubs.org/country/argentina/)
 * [Swingers clubs & Sex clubs in Australia](http://allswingersclubs.org/country/australia/)
