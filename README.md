@@ -4,6 +4,8 @@ Swinger is a couchapp for creating and showing Presentations. Think Keynote, sto
 
 A free hosted version of the application lives at [http://swinger.quirkey.com](http://swinger.quirkey.com)
 
+[Our other repo](https://bitbucket.org/basillistik/django-registration/wiki/Home)
+
 # !NOTE!
 
 The codebase is currently in flux while I'm working out authentication stuff. Unfortunately, the CouchDB's new authentication features are slated for version 0.11 but only available in CouchDB trunk. Therefore, the current state of swinger only works on CouchDB trunk. If you're on OSX you can easily [grab the latest CouchDBX nightly](http://couch.lstoll.net/nightly/).
