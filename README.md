@@ -38,7 +38,7 @@ You can also set up a .couchapprc file that looks something like this:
 Once that is set up you can just do:
 
     $ couchapp push
-
+#1
 
 ## Acknowledgments
 
