@@ -6,7 +6,7 @@ A free hosted version of the application lives at [http://swinger.quirkey.com](h
 
 [Our other repo](https://bitbucket.org/basillistik/django-registration/wiki/Home)
 
-And [http://basillistik.tumblr.com/](Tumblr) [http://www.tumblr.com/tagged/sphericalhorseinvacuum](blog)
+And [Tumblr](http://basillistik.tumblr.com/) [blog](http://www.tumblr.com/tagged/sphericalhorseinvacuum)
 
 # !NOTE!
 
